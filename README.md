@@ -1,5 +1,5 @@
-# class6
-class6 repository for COMP8860
+# class7
+class7 repository for COMP8860
 
 This repository contains the following Java classes:
 
